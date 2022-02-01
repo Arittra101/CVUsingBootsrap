@@ -1,0 +1,39 @@
+.check{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.h_border{
+
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 10px;  
+    /* display: inline-block; */
+}
+.n_border{
+
+    /* border: 3px solid black; */
+    border-radius: 10px;
+    padding: 10px; 
+    margin: 2px; 
+    /* display: inline-block; */
+}
+.fontf{
+  font-family: 10px;
+  background-color: rgb(247, 243, 239);
+}
+
+li{
+    margin-top: 15px;
+}
+
+
+a{
+ 
+    padding: 2px;
+ border-radius: 2px;
+ color: brown !important;
+ background-color: blanchedalmond;
+ text-decoration: none !important;
+}
